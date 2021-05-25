@@ -1,3 +1,12 @@
+# How to use the project
+First clone the repository in your local machine
+Then go to the HouseOfTastesReact directory and open it in command prompt
+Then use the following commands to install the required depenedencies
+`npm i`
+Then use the following command to start the development server
+`npm start`
+Then open the browser and navigate to `http://localhost:3000/`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
